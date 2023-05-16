@@ -52,6 +52,7 @@ El cuarto día se centra en la visualización interactiva de datos utilizando Fo
 ## Día 5 - Viernes
 
 Matplotlib y Seaborn 
+
 Respaso de teoría
 
 El quinto día realizamos un repaso de la teoría vista durante la semana y exploramos las capacidades de Matplotlib y Seaborn para crear visualizaciones atractivas y efectivas de datos en Python. Estas habilidades nos permiten comunicar de manera clara y concisa información importante contenida en los datos.
