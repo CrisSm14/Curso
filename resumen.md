@@ -56,3 +56,13 @@ Matplotlib y Seaborn
 Respaso de teoría
 
 El quinto día realizamos un repaso de la teoría vista durante la semana y exploramos las capacidades de Matplotlib y Seaborn para crear visualizaciones atractivas y efectivas de datos en Python. Estas habilidades nos permiten comunicar de manera clara y concisa información importante contenida en los datos.
+
+##  Día 6 - Lunes
+
+Funciones
+
+Clases
+
+SpaceX - 2
+
+En este repositorio, hemos realizado unas series de ejercicios prácticos utilizando funciones y clases en el lenguaje de programación Python.
