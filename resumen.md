@@ -66,6 +66,9 @@ Clases
 SpaceX - 2
 
 En este repositorio, hemos realizado unas series de ejercicios prácticos utilizando funciones y clases en el lenguaje de programación Python.
+Durante nuestro trabajo, hemos examinado las funciones, que nos permiten encapsular bloques de código para lograr una mayor reutilización y modularidad.
+Asimismo, hemos profundizado en el uso de clases, que nos proporcionan una estructura para crear objetos y definir su comportamiento y atributos.
+
 
 ## Día 7 - Martes
 
