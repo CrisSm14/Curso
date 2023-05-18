@@ -66,3 +66,10 @@ Clases
 SpaceX - 2
 
 En este repositorio, hemos realizado unas series de ejercicios prácticos utilizando funciones y clases en el lenguaje de programación Python.
+
+## Día 7 - Martes
+
+m6 - 04 - Programación Funcional
+
+Realizamos una sesión de ejercicios de programación funcional en Python. Durante la sesión, nos enfocamos en aplicar los conceptos clave de la programación funcional, que incluyen el uso de funciones de orden superior, inmutabilidad y composición de funciones. 
+Nos permitió pasar funciones como argumentos y devolver funciones como resultado. Esto nos permitió crear funciones de orden superior, como map(), filter() y reduce(), que nos ayudaron a transformar y filtrar datos de manera concisa y elegante.
