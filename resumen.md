@@ -57,7 +57,7 @@ Respaso de teoría
 
 El quinto día realizamos un repaso de la teoría vista durante la semana y exploramos las capacidades de Matplotlib y Seaborn para crear visualizaciones atractivas y efectivas de datos en Python. Estas habilidades nos permiten comunicar de manera clara y concisa información importante contenida en los datos.
 
-##  Día 6 - Lunes
+##  Día 6 -   Martes
 
 Funciones
 
@@ -70,9 +70,22 @@ Durante nuestro trabajo, hemos examinado las funciones, que nos permiten encapsu
 Asimismo, hemos profundizado en el uso de clases, que nos proporcionan una estructura para crear objetos y definir su comportamiento y atributos.
 
 
-## Día 7 - Martes
+## Día 7 - Miércoles
 
 m6 - 04 - Programación Funcional
 
 Realizamos una sesión de ejercicios de programación funcional en Python. Durante la sesión, nos enfocamos en aplicar los conceptos clave de la programación funcional, que incluyen el uso de funciones de orden superior, inmutabilidad y composición de funciones. 
 Nos permitió pasar funciones como argumentos y devolver funciones como resultado. Esto nos permitió crear funciones de orden superior, como map(), filter() y reduce(), que nos ayudaron a transformar y filtrar datos de manera concisa y elegante.
+
+
+## Día 8 - Jueves
+
+M6 - 05 - SparkSession Teoría
+
+M6 - 06 - Primer RDD Teoría
+
+M6 - 07 - Transformaciones y Acciones sobre RDDs
+
+Hemos realizado una primera toma de contacto práctica con RDD. Mediante el uso de herramientas como PySpark, hemos creado y manipulado RDDs para aplicar transformaciones y acciones sobre ellos.
+
+
